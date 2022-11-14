@@ -1,0 +1,10 @@
+.portfolio-thumbnail {
+    margin-bottom: 10px;
+    overflow: hidden;
+    min-height: 260px;
+}
+
+.portfolio-thumbnail img {
+    width:400px;
+    height: 250px;
+}
